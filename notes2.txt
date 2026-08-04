@@ -3,5 +3,5 @@ Learning Git Branches
 AWS
 Lambda
 AWS S3
-AWS Lambda
+AWS EC2
 CloudWatch
