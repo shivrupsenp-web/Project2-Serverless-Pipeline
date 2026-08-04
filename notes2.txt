@@ -1,7 +1,8 @@
-This is my first GitHub project. 
+This is my first GitHub project.
 Learning Git Branches
 AWS S3
 AWS ECS
+AWS EC2
 CloudWatch
 AWS
 Lambda
