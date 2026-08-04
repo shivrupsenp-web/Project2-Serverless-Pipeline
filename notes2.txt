@@ -1,7 +1,7 @@
 This is my first GitHub project. 
 Learning Git Branches
 AWS S3
-AWS Lambda
+AWS ECS
 CloudWatch
 AWS
 Lambda
